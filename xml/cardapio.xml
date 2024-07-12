@@ -1,43 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <cardapio>
-    <detalhedoprato id="dp01">
-        <nome>Cuzcuz com frango</nome>
-        <descricao>Cuzcuz nordestino, com frango e molho de ketchup</descricao>
-        <ingredientes>Flocão, pito de frango, molho de tomate, cebola, alho, etc</ingredientes>
-        <preço>10 reais</preço>
-        <calorias>200 kcal</calorias>
-        <tempodePreparo>40 minutos</tempodePreparo>
-    </detalhedoprato>
     <detalhedoprato id="dp02">
         <nome>Feijoada</nome>
         <descricao>Prato típico brasileiro com feijão preto, carne de porco, linguiça e bacon</descricao>
         <ingredientes>Feijão preto, carne de porco, linguiça, bacon, cebola, alho, etc</ingredientes>
-        <preço>25 reais</preço>
+        <ingrediente>
+            Feijão preto
+        </ingrediente>
+        
+
+        <preco>25 reais</preco>
         <calorias>500 kcal</calorias>
         <tempodePreparo>120 minutos</tempodePreparo>
     </detalhedoprato>
+    
     <detalhedoprato id="dp03">
-        <nome>Salada Caesar</nome>
-        <descricao>Salada clássica com alface romana, croutons, parmesão e molho Caesar</descricao>
-        <ingredientes>Alface romana, croutons, queijo parmesão, molho Caesar, etc</ingredientes>
-        <preço>15 reais</preço>
-        <calorias>250 kcal</calorias>
-        <tempodePreparo>20 minutos</tempodePreparo>
+        <nome>Escondidinho de Carne Seca</nome>
+        <descricao>Carne seca desfiada coberta com purê de mandioca gratinado</descricao>
+        <ingredientes>Carne seca, mandioca, leite, manteiga, cebola, alho, queijo ralado</ingredientes>
+        <preco>22 reais</preco>
+        <calorias>450 kcal</calorias>
+        <tempodePreparo>60 minutos</tempodePreparo>
     </detalhedoprato>
-    <detalhedoprato id="dp04">
-        <nome>Massa Carbonara</nome>
-        <descricao>Massa italiana com molho à base de ovos, queijo parmesão, pancetta e pimenta preta</descricao>
-        <ingredientes>Massa tipo spaghetti, ovos, queijo parmesão, pancetta, pimenta preta, etc</ingredientes>
-        <preço>20 reais</preço>
-        <calorias>400 kcal</calorias>
-        <tempodePreparo>30 minutos</tempodePreparo>
-    </detalhedoprato>
-    <detalhedoprato id="dp05">
-        <nome>Sushi Combo</nome>
-        <descricao>Seleção variada de sushis e sashimis, acompanhados de molho de soja e wasabi</descricao>
-        <ingredientes>Arroz de sushi, peixes variados, nori, molho de soja, wasabi, etc</ingredientes>
-        <preço>30 reais</preço>
+
+    <detalhedoprato id="dp03">
+        <nome>Moqueca de Peixe</nome>
+        <descricao>Peixe cozido com leite de coco, pimentões, tomate e cebola</descricao>
+        <ingredientes>Peixe, leite de coco, pimentões, tomate, cebola, alho, dendê</ingredientes>
+        <preco>30 reais</preco>
         <calorias>350 kcal</calorias>
-        <tempodePreparo>45 minutos</tempodePreparo>
+        <tempodePreparo>60 minutos</tempodePreparo>
+    </detalhedoprato>
+
+    <detalhedoprato id="dp04">
+        <nome>Bobó de Camarão</nome>
+        <descricao>Camarão cozido com mandioca, leite de coco e temperos</descricao>
+        <ingredientes>Camarão, mandioca, leite de coco, cebola, alho, dendê</ingredientes>
+        <preco>35 reais</preco>
+        <calorias>400 kcal</calorias>
+        <tempodePreparo>80 minutos</tempodePreparo>
+    </detalhedoprato>
+
+    <detalhedoprato id="dp05">
+        <nome>Vatapá</nome>
+        <descricao>Prato baiano cremoso com camarão, pão, amendoim e leite de coco</descricao>
+        <ingredientes>Camarão, pão, amendoim, leite de coco, dendê, cebola, alho</ingredientes>
+        <preco>20 reais</preco>
+        <calorias>450 kcal</calorias>
+        <tempodePreparo>90 minutos</tempodePreparo>
     </detalhedoprato>
 </cardapio>
