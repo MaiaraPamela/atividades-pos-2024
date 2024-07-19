@@ -1,0 +1,6 @@
+<!ELEMENT quiz (question+)>
+<!ELEMENT question (text, choice+)>
+<!ELEMENT text (#PCDATA)>
+<!ELEMENT choice (#PCDATA)>
+<!ATTLIST choice correct (yes | no) #REQUIRED>
+

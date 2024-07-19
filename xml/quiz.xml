@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE quiz SYSTEM "quiz.dtd">
+<quiz>
+    <question>
+        <text>Qual é a capital da França?</text>
+        <choice correct="yes">Paris</choice>
+        <choice correct="no">Londres</choice>
+        <choice correct="no">Roma</choice>
+        <choice correct="no">Berlim</choice>
+    </question>
+    <question>
+        <text>Qual é o maior planeta do sistema solar?</text>
+        <choice correct="yes">Júpiter</choice>
+        <choice correct="no">Saturno</choice>
+        <choice correct="no">Terra</choice>
+        <choice correct="no">Marte</choice>
+    </question>
+    <question>
+        <text>Quem pintou a Mona Lisa?</text>
+        <choice correct="yes">Leonardo da Vinci</choice>
+        <choice correct="no">Vincent van Gogh</choice>
+        <choice correct="no">Pablo Picasso</choice>
+        <choice correct="no">Claude Monet</choice>
+    </question>
+    <question>
+        <text>Em que ano o homem pisou na Lua pela primeira vez?</text>
+        <choice correct="yes">1969</choice>
+        <choice correct="no">1959</choice>
+        <choice correct="no">1979</choice>
+        <choice correct="no">1989</choice>
+    </question>
+    <question>
+        <text>Qual é o elemento químico representado pelo símbolo O?</text>
+        <choice correct="yes">Oxigênio</choice>
+        <choice correct="no">Ouro</choice>
+        <choice correct="no">Osmium</choice>
+        <choice correct="no">Oxalato</choice>
+    </question>
+</quiz>
