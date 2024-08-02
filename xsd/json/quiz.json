@@ -1,0 +1,137 @@
+{
+    "quiz": {
+      "versao": "1.0",
+      "disciplina": "Matemática",
+      "professor": {
+        "nome": "João Silva",
+        "matrícula": "123456"
+      },
+      "turma": "8º Ano",
+      "data": "2024-07-19",
+      "questões": {
+        "questão": [
+          {
+            "enunciado": "Qual é o resultado de 7 + 5?",
+            "pontuação": 1,
+            "alternativas": {
+              "alternativa": [
+                {
+                  "correta": "nao",
+                  "valor": "10"
+                },
+                {
+                  "correta": "sim",
+                  "valor": "12"
+                },
+                {
+                  "correta": "nao",
+                  "valor": "11"
+                },
+                {
+                  "correta": "nao",
+                  "valor": "13"
+                }
+              ]
+            }
+          },
+          {
+            "enunciado": "Qual é a capital da França?",
+            "pontuação": 1,
+            "alternativas": {
+              "alternativa": [
+                {
+                  "correta": "sim",
+                  "valor": "Paris"
+                },
+                {
+                  "correta": "nao",
+                  "valor": "Londres"
+                },
+                {
+                  "correta": "nao",
+                  "valor": "Roma"
+                },
+                {
+                  "correta": "nao",
+                  "valor": "Berlim"
+                }
+              ]
+            }
+          },
+          {
+            "enunciado": "Quem escreveu 'Dom Quixote'?",
+            "pontuação": 1,
+            "alternativas": {
+              "alternativa": [
+                {
+                  "correta": "nao",
+                  "valor": "William Shakespeare"
+                },
+                {
+                  "correta": "nao",
+                  "valor": "Gabriel Garcia Marquez"
+                },
+                {
+                  "correta": "nao",
+                  "valor": "Jorge Luis Borges"
+                },
+                {
+                  "correta": "sim",
+                  "valor": "Miguel de Cervantes"
+                }
+              ]
+            }
+          },
+          {
+            "enunciado": "Qual é o maior oceano da Terra?",
+            "pontuação": 1,
+            "alternativas": {
+              "alternativa": [
+                {
+                  "correta": "sim",
+                  "valor": "Oceano Pacífico"
+                },
+                {
+                  "correta": "nao",
+                  "valor": "Oceano Atlântico"
+                },
+                {
+                  "correta": "nao",
+                  "valor": "Oceano Índico"
+                },
+                {
+                  "correta": "nao",
+                  "valor": "Oceano Ártico"
+                }
+              ]
+            }
+          },
+          {
+            "enunciado": "Em que ano começou a Segunda Guerra Mundial?",
+            "pontuação": 1,
+            "alternativas": {
+              "alternativa": [
+                {
+                  "correta": "sim",
+                  "valor": "1939"
+                },
+                {
+                  "correta": "nao",
+                  "valor": "1945"
+                },
+                {
+                  "correta": "nao",
+                  "valor": "1914"
+                },
+                {
+                  "correta": "nao",
+                  "valor": "1929"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+  

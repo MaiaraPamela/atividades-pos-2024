@@ -1,0 +1,100 @@
+{
+    "cardapio": {
+      "prato": [
+        {
+          "id": 2,
+          "nome": "Feijoada",
+          "descricao": "Prato típico brasileiro com feijão preto, carne de porco, linguiça e bacon",
+          "ingredientes": {
+            "ingrediente": [
+              "Feijão preto",
+              "Carne de porco",
+              "Linguiça",
+              "Bacon",
+              "Cebola",
+              "Alho"
+            ]
+          },
+          "preco": 25.00,
+          "calorias": 500,
+          "tempoPreparo": "120 minutos"
+        },
+        {
+          "id": 3,
+          "nome": "Escondidinho de Carne Seca",
+          "descricao": "Carne seca desfiada coberta com purê de mandioca gratinado",
+          "ingredientes": {
+            "ingrediente": [
+              "Carne seca",
+              "Mandioca",
+              "Leite",
+              "Manteiga",
+              "Cebola",
+              "Alho",
+              "Queijo ralado"
+            ]
+          },
+          "preco": 22.00,
+          "calorias": 450,
+          "tempoPreparo": "60 minutos"
+        },
+        {
+          "id": 3,
+          "nome": "Moqueca de Peixe",
+          "descricao": "Peixe cozido com leite de coco, pimentões, tomate e cebola",
+          "ingredientes": {
+            "ingrediente": [
+              "Peixe",
+              "Leite de coco",
+              "Pimentões",
+              "Tomate",
+              "Cebola",
+              "Alho",
+              "Dendê"
+            ]
+          },
+          "preco": 30.00,
+          "calorias": 350,
+          "tempoPreparo": "60 minutos"
+        },
+        {
+          "id": 4,
+          "nome": "Bobó de Camarão",
+          "descricao": "Camarão cozido com mandioca, leite de coco e temperos",
+          "ingredientes": {
+            "ingrediente": [
+              "Camarão",
+              "Mandioca",
+              "Leite de coco",
+              "Cebola",
+              "Alho",
+              "Dendê"
+            ]
+          },
+          "preco": 35.00,
+          "calorias": 400,
+          "tempoPreparo": "80 minutos"
+        },
+        {
+          "id": 5,
+          "nome": "Vatapá",
+          "descricao": "Prato baiano cremoso com camarão, pão, amendoim e leite de coco",
+          "ingredientes": {
+            "ingrediente": [
+              "Camarão",
+              "Pão",
+              "Amendoin",
+              "Leite de coco",
+              "Dendê",
+              "Cebola",
+              "Alho"
+            ]
+          },
+          "preco": 20.00,
+          "calorias": 450,
+          "tempoPreparo": "90 minutos"
+        }
+      ]
+    }
+  }
+  

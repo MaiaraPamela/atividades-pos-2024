@@ -1,0 +1,103 @@
+{
+    "imobiliaria": {
+      "imovel": [
+        {
+          "descricao": "Apartamento com varanda gourmet",
+          "proprietario": {
+            "nome": "Luciana Moreira",
+            "email": "luciana.moreira@example.com",
+            "telefone": "+55 21 91234-5678"
+          },
+          "endereco": {
+            "rua": "Rua das Palmeiras",
+            "bairro": "Botafogo",
+            "cidade": "Rio de Janeiro",
+            "numero": 45
+          },
+          "caracteristicas": {
+            "tamanho": 140.0,
+            "numQuartos": 3,
+            "numBanheiros": 3
+          },
+          "valor": "R$ 1.800.000,00"
+        },
+        {
+          "descricao": "Casa de campo com pomar",
+          "proprietario": {
+            "nome": "Roberto Lima",
+            "telefone": "+55 11 99887-6543"
+          },
+          "endereco": {
+            "rua": "Estrada da Fazenda",
+            "bairro": "Campo Alegre",
+            "cidade": "São Paulo"
+          },
+          "caracteristicas": {
+            "tamanho": 350.0,
+            "numQuartos": 5,
+            "numBanheiros": 4
+          },
+          "valor": "R$ 3.500.000,00"
+        },
+        {
+          "descricao": "Apartamento moderno",
+          "proprietario": {
+            "nome": "Fernanda Costa",
+            "email": "fernanda.costa@example.com",
+            "telefone": "+55 31 98765-1234"
+          },
+          "endereco": {
+            "rua": "Av. Contorno",
+            "bairro": "Funcionários",
+            "cidade": "Belo Horizonte",
+            "numero": 789
+          },
+          "caracteristicas": {
+            "tamanho": 95.0,
+            "numQuartos": 2,
+            "numBanheiros": 2
+          },
+          "valor": "R$ 950.000,00"
+        },
+        {
+          "descricao": "Chácara com piscina e churrasqueira",
+          "proprietario": {
+            "nome": "Marcos Ribeiro",
+            "email": "marcos.ribeiro@example.com",
+            "telefone": "+55 41 99987-6543"
+          },
+          "endereco": {
+            "rua": "Estrada do Campo",
+            "bairro": "Zona Rural",
+            "cidade": "Curitiba",
+            "numero": 100
+          },
+          "caracteristicas": {
+            "tamanho": 600.0,
+            "numQuartos": 6,
+            "numBanheiros": 5
+          },
+          "valor": "R$ 3.800.000,00"
+        },
+        {
+          "descricao": "Kitnet próxima ao metrô",
+          "proprietario": {
+            "nome": "Júlia Fernandes",
+            "telefone": "+55 61 99998-7654"
+          },
+          "endereco": {
+            "rua": "Rua das Oliveiras",
+            "bairro": "Asa Norte",
+            "cidade": "Brasília"
+          },
+          "caracteristicas": {
+            "tamanho": 35.0,
+            "numQuartos": 1,
+            "numBanheiros": 1
+          },
+          "valor": "R$ 350.000,00"
+        }
+      ]
+    }
+  }
+  
