@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cardapio>
+    <detalhedoprato id="dp02">
+        <nome>Feijoada</nome>
+        <descricao>Prato típico brasileiro com feijão preto, carne de porco, linguiça e bacon</descricao>
+        <ingredientes>Feijão preto, carne de porco, linguiça, bacon, cebola, alho, etc</ingredientes>
+        <ingrediente>Feijão preto</ingrediente>
+        <ingrediente>Carne de porco</ingrediente>
+        <ingrediente>Linguiça</ingrediente>
+        <ingrediente>Bacon</ingrediente>
+        <ingrediente>Cebola</ingrediente>
+        <ingrediente>Alho</ingrediente>
+        <preco>25 reais</preco>
+        <calorias>500 kcal</calorias>
+        <tempodePreparo>120 minutos</tempodePreparo>
+    </detalhedoprato>
+    
+    <detalhedoprato id="dp03">
+        <nome>Escondidinho de Carne Seca</nome>
+        <descricao>Carne seca desfiada coberta com purê de mandioca gratinado</descricao>
+        <ingredientes>Carne seca, mandioca, leite, manteiga, cebola, alho, queijo ralado</ingredientes>
+        <ingrediente>Carne seca</ingrediente>
+        <ingrediente>Mandioca</ingrediente>
+        <ingrediente>Leite</ingrediente>
+        <ingrediente>Manteiga</ingrediente>
+        <ingrediente>Cebola</ingrediente>
+        <ingrediente>Alho</ingrediente>
+        <ingrediente>Queijo ralado</ingrediente>
+        <preco>22 reais</preco>
+        <calorias>450 kcal</calorias>
+        <tempodePreparo>60 minutos</tempodePreparo>
+    </detalhedoprato>
+
+    <detalhedoprato id="dp03">
+        <nome>Moqueca de Peixe</nome>
+        <descricao>Peixe cozido com leite de coco, pimentões, tomate e cebola</descricao>
+        <ingredientes>Peixe, leite de coco, pimentões, tomate, cebola, alho, dendê</ingredientes>
+        <ingrediente>Peixe</ingrediente>
+        <ingrediente>Leite de coco</ingrediente>
+        <ingrediente>Pimentões</ingrediente>
+        <ingrediente>Tomate</ingrediente>
+        <ingrediente>Cebola</ingrediente>
+        <ingrediente>Alho</ingrediente>
+        <ingrediente>Dendê</ingrediente>
+        <preco>30 reais</preco>
+        <calorias>350 kcal</calorias>
+        <tempodePreparo>60 minutos</tempodePreparo>
+    </detalhedoprato>
+
+    <detalhedoprato id="dp04">
+        <nome>Bobó de Camarão</nome>
+        <descricao>Camarão cozido com mandioca, leite de coco e temperos</descricao>
+        <ingredientes>Camarão, mandioca, leite de coco, cebola, alho, dendê</ingredientes>
+        <ingrediente>Camarao</ingrediente>
+        <ingrediente>Mandioca</ingrediente>
+        <ingrediente>Leite de coco</ingrediente>
+        <ingrediente>Cebola</ingrediente>
+        <ingrediente>Alho</ingrediente>
+        <ingrediente>Dendê</ingrediente>
+        <preco>35 reais</preco>
+        <calorias>400 kcal</calorias>
+        <tempodePreparo>80 minutos</tempodePreparo>
+    </detalhedoprato>
+
+    <detalhedoprato id="dp05">
+        <nome>Vatapá</nome>
+        <descricao>Prato baiano cremoso com camarão, pão, amendoim e leite de coco</descricao>
+        <ingredientes>Camarão, pão, amendoim, leite de coco, dendê, cebola, alho</ingredientes>
+        <ingrediente>Camarão</ingrediente>
+        <ingrediente>Pão</ingrediente>
+        <ingrediente>Amendoin</ingrediente>
+        <ingrediente>Leite de coco</ingrediente>
+        <ingrediente>Dendê</ingrediente>
+        <ingrediente>Cebola</ingrediente>
+        <ingrediente>Alho</ingrediente>
+        <preco>20 reais</preco>
+        <calorias>450 kcal</calorias>
+        <tempodePreparo>90 minutos</tempodePreparo>
+    </detalhedoprato>
+</cardapio>

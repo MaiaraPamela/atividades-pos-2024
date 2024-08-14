@@ -1,0 +1,83 @@
+{
+    "imobiliaria": [
+        {
+            "descricao": "Casa com quintal amplo",
+            "nome": "Ana Costa",
+            "email": [
+                "ana.costa@example.com"
+            ],
+            "telefone": [
+                "(21) 99876-5432"
+            ],
+            "rua": "Rua Atlântica",
+            "bairro": "Copacabana",
+            "cidade": "Rio de Janeiro",
+            "tamanho": "150m²",
+            "numQuartos": "4",
+            "numBanheiros": "3",
+            "valor": "R$ 1.200.000"
+        },
+        {
+            "descricao": "Apartamento moderno no centro da cidade",
+            "nome": "Carlos Almeida",
+            "telefone": [
+                "(11) 98765-4321",
+                "(11) 91234-5678"
+            ],
+            "rua": "Rua das Flores",
+            "bairro": "Centro",
+            "cidade": "São Paulo",
+            "numero": "123",
+            "tamanho": "85m²",
+            "numQuartos": "3",
+            "numBanheiros": "2",
+            "valor": "R$ 500.000"
+        },
+        {
+            "descricao": "Chácara em área rural",
+            "nome": "Maria Silva",
+            "email": [
+                "maria.silva@example.com"
+            ],
+            "rua": "Estrada do Sol",
+            "bairro": "Zona Rural",
+            "cidade": "Belo Horizonte",
+            "numero": "456",
+            "tamanho": "200m²",
+            "numQuartos": "3",
+            "numBanheiros": "2",
+            "valor": "R$ 600.000"
+        },
+        {
+            "descricao": "Apartamento compacto sem número de rua",
+            "nome": "João Oliveira",
+            "telefone": [
+                "(19) 91234-5678"
+            ],
+            "rua": "Rua Sem Nome",
+            "bairro": "Centro",
+            "cidade": "Campinas",
+            "tamanho": "45m²",
+            "numQuartos": "1",
+            "numBanheiros": "1",
+            "valor": "R$ 250.000"
+        },
+        {
+            "descricao": "Apartamento com vista para o mar",
+            "nome": "Fernanda Souza",
+            "email": [
+                "fernanda.souza@example.com"
+            ],
+            "telefone": [
+                "(31) 98765-4321"
+            ],
+            "rua": "Avenida Brasil",
+            "bairro": "Jardim das Acácias",
+            "cidade": "Rio de Janeiro",
+            "tamanho": "70m²",
+            "numQuartos": "2",
+            "numBanheiros": "1",
+            "valor": "R$ 800.000"
+        }
+    ]
+}
