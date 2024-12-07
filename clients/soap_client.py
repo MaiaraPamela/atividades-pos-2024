@@ -42,18 +42,11 @@ def buscar_continente_pais(codigo_pais):
 def buscar_moeda_pais(codigo_pais):
     return buscar_dado_pais("CurrencyName", codigo_pais)
 
-# Exemplo de uso
-capital_nova_zelandia = buscar_dado_pais("CapitalCity", "NZ")
-nome_nova_zelandia = buscar_nome_pais("NZ")
-continente_nova_zelandia = buscar_continente_pais("NZ")
-moeda_nova_zelandia = buscar_moeda_pais("NZ")
+# Função para buscar a capital de um país (exemplo: Noruega)
+capital_noruega = buscar_dado_pais("CapitalCity", "NO")
+print(f"A capital da Noruega é {capital_noruega}")
 
-print(f"A capital da Nova Zelândia é {capital_nova_zelandia}")
-print(f"O nome da Nova Zelândia é {nome_nova_zelandia}")
-print(f"O continente da Nova Zelândia é {continente_nova_zelandia}")
-print(f"A moeda da Nova Zelândia é {moeda_nova_zelandia}")
-
-# Função para converter número para extenso
+# Função para converter número para extenso em inglês
 def converter_numero_por_extenso(numero):
     # URL do WSDL da API de conversão de números
     wsdl_url = "https://www.dataaccess.com/webservicesserver/NumberConversion.wso"
@@ -86,7 +79,7 @@ def converter_numero_por_extenso(numero):
     else:
         return "Número não pôde ser convertido"
 
-# Teste de conversão de número
+# Solicita ao usuário para digitar um número
 numero = int(input("Digite um número para converter em extenso: "))
 numero_extenso = converter_numero_por_extenso(numero)
 print(f"O número {numero} por extenso em inglês é: {numero_extenso}")
