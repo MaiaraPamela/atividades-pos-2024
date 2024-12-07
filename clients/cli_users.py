@@ -1,5 +1,5 @@
 import argparse
-import clients.wrapper as users
+import clients.users_wrapper as users
 
 # Função principal da CLI usando argparse
 def main():
