@@ -20,10 +20,8 @@ def buscar_capital_pais(codigo_pais):
     resposta = requests.post(url, data=corpo_solicitacao, headers=cabecalhos)
     resposta_xml = resposta.content.decode()
     
-    # Analisa o XML de resposta
     dom = parseString(resposta_xml)
     
-    # Verifica se a tag 'CapitalCityResult' foi encontrada
     capitais_encontradas = dom.getElementsByTagName("m:CapitalCityResult")
     if capitais_encontradas:
         capital = capitais_encontradas[0].childNodes[0].nodeValue
@@ -59,7 +57,6 @@ def numero_por_extenso(numero):
     else:
         return "'NumberToWordsResult' não foi encontrado"
 
-# Exemplo de uso
 capital_noruega = buscar_capital_pais("NO")
 print(f"A capital da Noruega é {capital_noruega}")
 

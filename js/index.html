@@ -1,16 +1,33 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Cliente API JSON Placeholder</title>
-    <link rel="stylesheet" href="styles.css" />
-  </head>
-  <body>
-    <div id="app">
-      <h1>Usuários e seus To-Dos</h1>
-      <div id="user-list"></div>
-    </div>
-    <script src="script.js"></script>
-  </body>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pokédex</title>
+  <link rel="stylesheet" href="src/css/main.css">
+</head>
+<body>
+  <header>
+    <h1>Pokédex</h1>
+    <button id="fetchPokemonBtn" class="btn">Buscar Pokémon</button>
+  </header>
+
+  <main>
+    <section>
+      <h2>Lista de Pokémon</h2>
+      <div id="pokemonList" class="list"></div>
+    </section>
+
+    <section>
+      <h2>Detalhes do Pokémon</h2>
+      <div id="pokemonDetails"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2024 Pokédex</p>
+  </footer>
+
+  <script src="src/js/main.js"></script>
+</body>
 </html>
