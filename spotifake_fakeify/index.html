@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fakeify</title>
+    <link rel="stylesheet" href="src/main.css"> 
+</head>
+<body>
+
+    <header>
+        <h1>FAKEIFY - Sua Música, Sua Farsa!</h1>
+    </header>
+
+    <section id="artistas-container">
+        <h2>Artistas</h2>
+        <div id="artistas-list"></div>
+    </section>
+
+    <section id="albuns-container">
+        <h2>Álbuns</h2>
+        <div id="albuns-list"></div>
+    </section>
+
+    <section id="musicas-container">
+        <h2>Músicas</h2>
+        <div id="musicas-list"></div>
+    </section>
+
+    <section class="form-container">
+        <h2>Adicionar Artista</h2>
+        <form id="form-artista" onsubmit="submitForm(event)">
+            <label for="artist-name">Nome do Artista:</label>
+            <input type="text" id="artist-name" name="artist-name" required>
+
+            <label for="artist-origin">Origem:</label>
+            <input type="text" id="artist-origin" name="artist-origin" required>
+
+            <label for="creation-year">Ano de Criação:</label>
+            <input type="number" id="creation-year" name="creation-year" required>
+
+            <button type="submit">Adicionar Artista</button>
+        </form>
+    </section>
+
+    <script src="src/main.js"></script> 
+</body>
+</html>
